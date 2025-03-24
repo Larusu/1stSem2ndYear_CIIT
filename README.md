@@ -1,5 +1,5 @@
-Introduction to Programming 2 
+# **Computer Programming 2 (Python) - 2nd Semester, 1st Year**
 
-2nd Semester, 1st year - Python 
+This repository contains all the lessons, exercises, and projects I have learned in **Computer Programming 2** during my second semester as a BS Computer Science student. The focus of this repositoriy is about **Python and Java Programming,** covering various topics.
 
-Here's everything I learned and coded
+Topics Covered
