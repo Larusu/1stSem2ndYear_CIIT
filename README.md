@@ -5,23 +5,23 @@ This repository contains all the exercises and projects I have learned in **Comp
 
 ## Topics Included
 Python 🐍
-✔️ Object-Oriented Programming (OOP) (Classes, Objects, Inheritance, Encapsulation)
-✔️ Getters & Setters (Using @property)
-✔️ File Handling
-✔️ Exception Handling
-✔️ Abstract Classes & Methods (Using ABC module)
-✔️ Polymorphism (Method Overriding)
-✔️ Duck Typing
-✔️ Aggregation & Composition
-✔️ Nested Classes
+- Object-Oriented Programming (OOP) (Classes, Objects, Inheritance, Encapsulation)
+- Getters & Setters (Using @property)
+- File Handling
+- Exception Handling
+- Abstract Classes & Methods (Using ABC module)
+- Polymorphism (Method Overriding)
+- Duck Typing
+- Aggregation & Composition
+- Nested Classes
 
 Java ☕
-✔️ Object-Oriented Programming (OOP) (Classes, Objects, Inheritance, Encapsulation)
-✔️ Getters & Setters
-✔️ Switch Statements
-✔️ Array Iteration & Conditional Statements
-✔️ Basic Input Handling (Using Scanner)
-✔️ Constructors & Method Overloading
+- Object-Oriented Programming (OOP) (Classes, Objects, Inheritance, Encapsulation)
+- Getters & Setters
+- Switch Statements
+- Array Iteration & Conditional Statements
+- Basic Input Handling (Using Scanner)
+- Constructors & Method Overloading
 
 
-*Sepcial thanks to ChatGPT for helping me with Topics covered, assisting in analyzing and categorizing the code.*
+*Special thanks to ChatGPT for helping me with **Topics covered,** assisting in analyzing and categorizing the code.*
