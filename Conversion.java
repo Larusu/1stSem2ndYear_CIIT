@@ -25,4 +25,7 @@ public class Conversion{
         System.out.println("======Conversion for Length======");
 
     }
+    public static int tite(){
+        return 32;
+    }
 }
