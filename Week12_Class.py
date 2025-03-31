@@ -17,12 +17,12 @@ class Student:
     
     @classmethod # Class Method Implementation
     def get_count(cls): # uses a CLS to get all the info in class or in this case the independent variable of "count"
-    # Returns the total number of students created.
+        """Returns the total number of students created."""
         return f"Total # of Student: {cls.count}"
     
     @classmethod
-    # Calculates and returns the average GPA of all students.
     def get_average_gpa(cls):
+        """Calculates and returns the average GPA of all students."""
         return f"{cls.total_GPA / cls.count: 0.2f} GPA"
     
 students = [Student("Mike", 3.5), Student("Barbie", 3.0), Student("Lars", 2.9)]
