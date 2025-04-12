@@ -91,7 +91,7 @@ class Wheel:
     def __init__(self, size):
         self.size = size
 
-class Car:
+class Car1:
     def __init__(self, manufacturer, model, horse_power, wheel_size):
         self.manufacturer = manufacturer # stores the car manufacturer
         self.model = model # Stores the car model
@@ -107,7 +107,7 @@ class Car:
     def display_car_details(self):
         return f"{self.manufacturer}, {self.model}, {self.engine.horse_power}, {self.wheel[0].size}"
     
-car = Car("Ford", "Mustang Shelby GT500", 500, 4)
+car = Car1("Ford", "Mustang Shelby GT500", 500, 4)
 
 print(car.display_car_details())
 
