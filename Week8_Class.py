@@ -1,6 +1,6 @@
-number : str = 213 #
+number : str = '213' #
 
-print(number + 1)
+print(int(number) + 1)
 
 
 class Car():
